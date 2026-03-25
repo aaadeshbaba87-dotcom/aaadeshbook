@@ -15,10 +15,9 @@ import StickyWhatsApp from "@/components/StickyWhatsApp";
 import { MessageCircle, Download, ShieldCheck, Info } from "lucide-react";
 
 const demoAccounts = [
-  { platform: "Laser247", url: "laser247.com", id: "demo1234", pass: "asdfgh" },
-  { platform: "Lotus365", url: "lotus365.com", id: "test4321", pass: "qwerty" },
-  { platform: "Diamond", url: "diamondchx.com", id: "user999", pass: "123456" },
-  { platform: "SkyExch", url: "skyexch.com", id: "demo777", pass: "pass777" }
+  { platform: "World777", url: "world777.com", id: "demo1234", pass: "pass777" },
+  { platform: "AllPanel777", url: "allpanel777.com", id: "user999", pass: "panel777" },
+  { platform: "SilverBet777", url: "silverbet777.com", id: "test4321", pass: "bet777" }
 ];
 
 export default function Home() {

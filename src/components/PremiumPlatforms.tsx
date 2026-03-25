@@ -5,41 +5,23 @@ import { Star, ShieldCheck, Zap, Trophy, TrendingUp, Gift } from "lucide-react";
 
 const platforms = [
   {
-    name: "Cricbuzz",
-    tagline: "High Betting Odds",
-    desc: "Real-time match data together with expert analysis for IPL and T20s.",
-    features: ["Real-time Data", "Expert Analysis", "All Formats", "High Odds"],
+    name: "World777",
+    tagline: "Premier Betting Hub",
+    desc: "The global gold standard for multi-sport betting with massive liquidity and premium odds.",
+    features: ["Massive Liquidity", "Instant Resulting", "All Major Sports", "High Betting Limits"],
     isHot: true
   },
   {
-    name: "11xPlay",
-    tagline: "Attractive Odds",
-    desc: "Premium betting options including attractive odds and valuable promotions.",
-    features: ["Multi-Sport", "Premium Options", "Valuable Promos", "Easy Interface"]
+    name: "AllPanel777",
+    tagline: "Advanced Analytics",
+    desc: "Access the most advanced betting panel with real-time stats and smooth execution.",
+    features: ["Professional Interface", "24/7 Live Data", "One-Tap Bets", "Advanced Security"]
   },
   {
-    name: "Lotus365",
-    tagline: "Verified Platform",
-    desc: "A secure betting platform which offers a safe and pleasant experience.",
-    features: ["Secure & Safe", "Sports Options", "Live Casino", "Competitive Odds"]
-  },
-  {
-    name: "Gold365",
-    tagline: "Premium Capabilities",
-    desc: "Superior sports betting services along with real-time casino games.",
-    features: ["Premium Tech", "Superior Sports", "Daily Promos", "Generous Rewards"]
-  },
-  {
-    name: "Laser247",
-    tagline: "VIP Access",
-    desc: "Complete access to betting options that include cricket and casino.",
-    features: ["Prestigious", "Cricket Match", "Casino Access", "Bonus Packages"]
-  },
-  {
-    name: "IPL Betting ID",
-    tagline: "IPL Exclusive",
-    desc: "Exclusive IPL 2024 access with premier odds and live broadcasts.",
-    features: ["IPL 2024 Access", "Premier Odds", "Live Broadcasts", "Expert Advice"],
+    name: "SilverBet777",
+    tagline: "Ultra-Fast Execution",
+    desc: "A high-performance platform prioritized for speed, reliability, and exclusive bonuses.",
+    features: ["Zero-Lag System", "Exclusive VIP Odds", "Instant Payouts", "Silver Loyalty Rewards"],
     isSpl: true
   }
 ];
